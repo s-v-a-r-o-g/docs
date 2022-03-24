@@ -12,5 +12,6 @@
 * [Tools](fundamentals/tools/README.md)
   * [Minting](fundamentals/tools/minting.md)
   * [Multisend](fundamentals/tools/multisend.md)
+  * [Claiming](fundamentals/tools/claiming.md)
 * [Guild Treasury](fundamentals/guild-treasury.md)
 * [Guild tasks](fundamentals/guild-tasks.md)
