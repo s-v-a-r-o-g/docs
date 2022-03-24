@@ -11,5 +11,6 @@
 * [DAO](fundamentals/dao.md)
 * [Tools](fundamentals/tools/README.md)
   * [Minting](fundamentals/tools/minting.md)
+  * [Multisend](fundamentals/tools/multisend.md)
 * [Guild Treasury](fundamentals/guild-treasury.md)
 * [Guild tasks](fundamentals/guild-tasks.md)
